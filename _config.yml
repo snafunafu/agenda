@@ -1,0 +1,9 @@
+title: "Conference 2025"
+description: "Agenda & Speakers"
+theme: minima
+
+# Custom options
+banner: "/assets/images/banner.png"
+colors:
+  primary: "#004040"
+  accent: "#01b08a"
